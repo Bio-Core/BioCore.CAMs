@@ -1,0 +1,11 @@
+Package: BioCore.CAMs
+Type: Package
+Title: BioCore Clinicall Aggressive Meningiomas (CAMs) R Package
+Version: 0.1.0
+Author: Richard J. de Borja and Dr. Farshad Nassiri
+Maintainer: Richard J. de Borja <richard.deborja@uhnresearch.ca>
+Description: A R package for the CAMs RNA-Seq analysis project.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.4), plyr (>= 1.8), dplyr (>= 0.7)

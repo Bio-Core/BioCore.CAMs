@@ -1,0 +1,9 @@
+exportPattern("^[[:alpha:]]+")
+
+export(
+  "create_sample_gene_heatmap",
+  "create_sample_gene_matrix",
+  "get_samplename_from_rsem_file",
+  "import_rsem_gene_results_files",
+  "rsem_gene_results_header"
+)
